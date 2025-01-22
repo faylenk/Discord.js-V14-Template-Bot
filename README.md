@@ -44,6 +44,12 @@ await interaction.reply({ content: '...', flags: MessageFlags.Ephemeral });
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
+# BUGS
+
+<p align="left">
+ <strong>🪲 If you find some bugs, please contact me or send an Issue.</strong>
+</p>
+
 ## Contact
 
 <p align="left">
